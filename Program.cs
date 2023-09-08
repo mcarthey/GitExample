@@ -6,7 +6,7 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello to the world again");
+            Console.WriteLine("I have a dog");
         }
     }
 }
